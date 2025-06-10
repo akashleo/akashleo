@@ -29,9 +29,8 @@ A dynamic matchmaking app with a twist. Stay tuned for updates!
 
 ## 📌 Featured Projects
 
-- [📊 *Budgeteer*](https://github.com/akashleo/budgeteer) – Personal finance tracker built with Next.js + MongoDB  
-- [🌐 *Devlinks*](https://github.com/akashleo/devlinks) – Curated dev portfolio & link hub  
-- [🎵 *Melodiy*](https://github.com/akashleo/melodiy) – Music visualizer + generator using Tone.js and Three.js
+- [📊 *QuizApp*](https://github.com/akashleo/quiz-app) – A simple and intuitive quiz app.  
+- [🌐 *MystMatch*](https://github.com/akashleo/mystmatch-app) – A dynamic matchmaking app with a twist. Stay tuned for updates!
 
 ---
 
