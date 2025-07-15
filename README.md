@@ -8,16 +8,7 @@ Get in touch if you wanna build something fun and that can be of use to people.
 
 ## GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=akashleo&theme=dark&hide_border=true)  ![GitHub PRs](https://img.shields.io/github/issues-pr/akashleo?style=for-the-badge)  ![GitHub Repo Stars](https://img.shields.io/github/stars/akashleo?style=for-the-badge)
-
----
-
-## Connect with Me
-
-- [![Twitter](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/akashleo_tw)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/aqaash.g/)
-
----
+![GitHub Streak](https://streak-stats.demolab.com?user=akashleo&theme=dark&hide_border=true) 
 
 <!---
 akashleo/akashleo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
