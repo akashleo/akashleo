@@ -3,7 +3,9 @@ welcome to my github corner, here I keep all the things that i love building or 
 I am a Frontend Engineer and i like building products with good UX, but I also like to keep my hands dirty with all kinds of technologies. 
 
 When I'm not doing any of these, I cook, sing or try my hand at songwriting. 
+
 Get in touch if you wanna build something fun/cool and that can be of use to people. 
+
 
 
 
