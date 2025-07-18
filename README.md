@@ -6,7 +6,6 @@ When I'm not doing any of these, I cook, sing or try my hand at songwriting.
 Get in touch if you wanna build something fun/cool and that can be of use to people. 
 
 
---
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=akashleo&theme=dark&hide_border=true) 
 
