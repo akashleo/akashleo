@@ -1,9 +1,10 @@
-Hi there, I'm Akash
-Welcome to my GitHub profile! Here I keep all the things that i love building or stealing. 
-I am a Frontend Engineer, but I like to keep my hands dirty with all kinds of technologies. When I'm not doing any of these, I cook, and like cook for real. 
-Get in touch if you wanna build something fun and that can be of use to people. 
+Heyyyyy, I'm Akash,
+welcome to my github corner, here I keep all the things that i love building or stealing. 
+I am a Frontend Engineer and i like building products with good UX, but I also like to keep my hands dirty with all kinds of technologies. 
 
----
+When I'm not doing any of these, I cook, sing or try my hand at songwriting. 
+Get in touch if you wanna build something fun/cool and that can be of use to people. 
+
 
 ## GitHub Stats
 
