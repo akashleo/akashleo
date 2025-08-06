@@ -1,4 +1,4 @@
-Heyyyyy, I'm Akash,
+Hey, I'm Akash,
 welcome to my github corner, here I keep all the things that i love building or stealing. 
 I am a Frontend Engineer and i like building products with good UX, but I also like to keep my hands dirty with all kinds of technologies. 
 
