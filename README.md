@@ -8,9 +8,6 @@ Get in touch if you wanna build something fun/cool and that can be of use to peo
 
 
 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=akashleo&theme=dark&hide_border=true) 
-
 <!---
 akashleo/akashleo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
