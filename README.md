@@ -5,6 +5,7 @@ I am a Frontend Engineer and i like building products with good UX, but I also l
 When I'm not doing any of these, I cook, go for a bike ride or try my hand at songwriting. 
 
 Get in touch if you wanna build something fun/cool and that can be of use to people. 
+Also check out my repositories and star them if you find them interesting.
 
 
 
