@@ -8,7 +8,7 @@ Get in touch if you wanna build something fun/cool and that can be of use to peo
 Also check out my repositories and star them if you find them interesting.
 
 
-## Actively looking for jobs currently.
+# Actively looking for jobs currently.
 
 
 <!---
