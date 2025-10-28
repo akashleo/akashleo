@@ -9,6 +9,7 @@ Also check out my repositories and star them if you find them interesting.
 
 
 ** Actively looking for jobs currently. **
+trial at parsewave
 
 
 <!---
