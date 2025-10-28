@@ -9,8 +9,6 @@ Also check out my repositories and star them if you find them interesting.
 
 
 ** Actively looking for jobs currently. **
-trial at parsewave
-
 
 <!---
 akashleo/akashleo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
