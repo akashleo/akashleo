@@ -8,7 +8,7 @@ Get in touch if you wanna build something fun/cool and that can be of use to peo
 Also check out my repositories and star them if you find them interesting.
 
 
-** Actively looking for jobs currently. **
+<!---** Actively looking for jobs currently. **-->
 <!---
 akashleo/akashleo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
