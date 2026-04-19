@@ -2,8 +2,6 @@ Hey, I'm Akash,
 welcome to my github corner, here I keep all the things that i love building or stealing. 
 I am a Full Stack Engineer and i like building products with good UX, but I also like to keep my hands dirty with all kinds of technologies. These days i'm trying my hand with agents.
 
-When I'm not doing any of these, I cook, go for a bike ride or try my hand at songwriting. 
-
 Get in touch if you wanna build something fun/cool and that can be of use to people. @akashleo_tw
 Also check out my repositories and star them if you find them interesting.
 
