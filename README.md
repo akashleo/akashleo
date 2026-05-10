@@ -5,6 +5,8 @@ RAG, LangChain
 @akashleo_tw
 Also check out my repositories and star them if you find them interesting.
 
+[![Akash Ghosh profile views](https://u8views.com/api/v1/github/profiles/44973949/views/day-week-month-total-count.svg)](https://u8views.com/github/akashleo)
+
 
 <!---** Actively looking for jobs currently. **-->
 <!---
