@@ -1,9 +1,9 @@
 Frontend Engineer
 
-Hey, I'm Akash,
+Hey,
 welcome to my github corner, here I keep all the things that i love building or stealing. 
 I am a Full Stack Engineer and i like building products with good UX, but I also like to keep my hands dirty with all kinds of technologies. These days i'm trying my hand with agents.
-RAG, LangChain
+RAG, LangChain. Looking for opportunities in the frontend domain.
 @akashleo_tw
 Also check out my repositories and star them if you find them interesting.
 
